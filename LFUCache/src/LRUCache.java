@@ -1,4 +1,6 @@
-class LRUCache {
+import java.util.HashMap;
+
+public class LRUCache {
     private int capacity;
     private HashMap<Integer, Node> keyToNode;
     private DLL list;
