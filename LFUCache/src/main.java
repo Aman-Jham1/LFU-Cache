@@ -10,7 +10,7 @@ public class Main {
  
         LFUCache cache = new LFUCache(capacity);
  
-        // let's fucking some ops
+        // let's fucking do some ops
  
         cache.put(1, 1);
  
