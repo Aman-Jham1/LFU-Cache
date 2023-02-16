@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-class LFUCache {
+public class LFUCache {
 
     private int capacity;
     private int minf;
